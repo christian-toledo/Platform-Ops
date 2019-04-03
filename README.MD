@@ -13,7 +13,7 @@ Git is useful <br>
     - diff - shows difference between work directory and staging area<br>
     - commit - perminantly stores in the repository<br>
     - log - list of previous commits<br> 
-
+<br>
 git init <br>
 git clone https://github.com/christian-toledo/Platform-Ops <br>
 git add text.txt <br>
