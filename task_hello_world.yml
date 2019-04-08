@@ -8,4 +8,4 @@ image_resource:
 
 run:
   path: echo
-  args: [burn the world]
+  args: [f the world]
