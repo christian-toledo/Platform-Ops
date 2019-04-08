@@ -7,4 +7,4 @@ image_resource:
 
 run:
   path: echo
-  args: [My name is Mike T]
+  args: [My name is Mike Tit]
