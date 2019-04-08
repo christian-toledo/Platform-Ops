@@ -4,8 +4,9 @@ platform: linux
 
 image_resource:
   type: docker-image
-  source: {repository: busybox}
+  source: {repository: golang, tag: 1.9-alpine}
 
-run:
-  path: echo
-  args: [Darkness was here before light]
+inputs:
+- name: nightshade
+- name: resource-app
+  path: gopath/src/github.com/cloudfoundry-community/simple-go-web-app
