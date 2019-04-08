@@ -10,3 +10,6 @@ inputs:
 - name: nightshade
 - name: resource-app
   path: gopath/src/github.com/cloudfoundry-community/simple-go-web-app
+
+run:
+  path: resource-tutorial/tutorials/basic/job-inputs/task_run_tests.sh
