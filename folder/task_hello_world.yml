@@ -8,6 +8,4 @@ image_resource:
 
 run:
   path: echo
-  args:
-        -hello world
-        -test
+  args: [,wejdfh world]
