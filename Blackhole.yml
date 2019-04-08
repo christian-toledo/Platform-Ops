@@ -9,7 +9,7 @@ image_resource:
 inputs:
 - name: resource-tutorial
 - name: resource-app
-  url = https://github.com/cloudfoundry-community/simple-go-web-app
+  url: https://github.com/cloudfoundry-community/simple-go-web-app
 
 run:
   path: resource-tutorial/Blackhole.sh
