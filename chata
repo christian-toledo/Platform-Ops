@@ -1,5 +1,13 @@
---- 
-text block: |
+---
+platform: linux
+
+image_resource:
+  type: docker-image
+  source: {repository: busybox}
+
+run:
+  path: echo
+  text block: |
     This is an example of a literal block which preserves the text how
         it 
             may be for whatever 
