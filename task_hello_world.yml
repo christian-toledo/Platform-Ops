@@ -8,4 +8,4 @@ image_resource:
 
 run:
   path: echo
-  args: [soy to the world]
+  args: [soy too the world]
