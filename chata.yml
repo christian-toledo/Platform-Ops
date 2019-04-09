@@ -6,8 +6,7 @@ image_resource:
   source: {repository: busybox}
 
 run:
-  path: echo
-    text block:
+  text block: |
         This is an example of a literal block which preserves the text how
         it 
             may be for whatever 
