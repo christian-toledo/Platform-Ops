@@ -7,7 +7,6 @@ image_resource:
 
 run:
   path: echo
-  args:
        text block: |
         This is an example of a literal block which preserves the text how
         it 
