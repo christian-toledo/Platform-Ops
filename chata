@@ -1,0 +1,11 @@
+--- 
+text block: |
+    This is an example of a literal block which preserves the text how
+        it 
+            may be for whatever 
+       reason you want it to 
+     be like 
+       this.
+       
+ # this text eill not become part of the output
+ 
